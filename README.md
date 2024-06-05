@@ -1,13 +1,13 @@
 # A Secure Warning Platform From Web Attacks Using Machine Learning Techniques
 
-Our project ‘A secure warning platform against web attacks using machine learning algorithms’ uses machine learning algorithms like Decision Tree Classifier, Random Forest, Extra Trees Classifier, Logistic Regression, Logistic Regression, XGBoost Classifier, CATBoost Classifier, K-Nearest Algorithms, and various other algorithms to detect various attacks like Phishing, Denial of Service (DoS), Cross Site Scripting (XSS). The platform uses ‘URL Dataset’ for Phishing attack detection and ‘NSL KDD Dataset’ for Denial of Service attack. The system uses feature distribution techniques to analyze the input with datasets and detect whether the input/connection is an authorized one or not.
+Our project, "A Secure Warning Platform Against Web Attacks Using Machine Learning," employs advanced algorithms such as Decision Tree, Random Forest, Extra Trees, Logistic Regression, XGBoost, CATBoost, and K-Nearest Neighbors to detect web attacks including Phishing, Denial of Service (DoS), and Cross-Site Scripting (XSS). Utilizing the 'URL Dataset' for Phishing detection and 'NSL KDD Dataset' for DoS detection, the platform analyzes input data through feature distribution techniques to determine if a connection or input is authorized.
 
-Project Report
+# Project Report
 
 https://drive.google.com/file/d/1psFPZFQqGyN5-skuh4GhycZNaClTY3wV/view?usp=sharing
 
 
-Screenshot of Project Model
+# Screenshot of Project Model
 
 ![fronted](https://user-images.githubusercontent.com/105710017/236258061-285132e0-34aa-4356-a6a7-5ed23a152277.png)
 
